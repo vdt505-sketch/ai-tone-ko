@@ -1,0 +1,11 @@
+{
+  "name": "ai-tone-ko",
+  "version": "0.1.0",
+  "description": "한국어 글·웹 화면에서 'AI가 쓴 티'로 지목되는 표면 패턴을 세는 의존성 0 CLI",
+  "bin": { "ai-tone-ko": "ai-tone-ko.js" },
+  "main": "ai-tone-ko.js",
+  "scripts": { "test": "node --test test/ai-tone-ko.test.js" },
+  "engines": { "node": ">=18" },
+  "keywords": ["korean", "ai-writing", "copywriting", "lint", "ux-writing", "한국어"],
+  "license": "MIT"
+}
